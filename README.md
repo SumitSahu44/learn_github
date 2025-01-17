@@ -18,3 +18,6 @@ Remove a file and stage its deletion.
 
 - git commit -m "<message>"
 Commit staged changes with a descriptive message.
+
+- git commit -am "<message>"
+Stage and commit all modified tracked files in one step (skip git add).
