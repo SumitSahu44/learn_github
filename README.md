@@ -15,3 +15,6 @@ Stage a specific file for the next commit.
 
 - git rm <file>
 Remove a file and stage its deletion.
+
+- git commit -m "<message>"
+Commit staged changes with a descriptive message.
