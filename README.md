@@ -28,5 +28,8 @@ Displays the status of your working directory and staging area, showing changes 
 - git log
 Shows a history of commits made to the repository, including commit hashes, authors, and messages.
 
+- git checkout <branch>
+Switch to a specific branch. If the branch doesn’t exist, you can create and switch with git checkout -b <new_branch>.
+
 - git branch
 Lists all branches in your repository and highlights the current branch.
