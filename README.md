@@ -27,3 +27,6 @@ Displays the status of your working directory and staging area, showing changes 
 
 - git log
 Shows a history of commits made to the repository, including commit hashes, authors, and messages.
+
+- git branch
+Lists all branches in your repository and highlights the current branch.
