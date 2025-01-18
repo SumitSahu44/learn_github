@@ -33,3 +33,6 @@ Switch to a specific branch. If the branch doesn’t exist, you can create and s
 
 - git branch
 Lists all branches in your repository and highlights the current branch.
+
+- git pull
+Fetches changes from a remote repository and merges them into your local branch.
