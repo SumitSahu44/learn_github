@@ -43,4 +43,6 @@ Pushes commits from your local branch to the corresponding branch on the remote 
 - git merge <branch>
 Merges changes from a specified branch into the current branch.
 
+- git stash
+Temporarily saves your uncommitted changes to a stack, allowing you to work on something else and restore them later with git stash apply.
 
