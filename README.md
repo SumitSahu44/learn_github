@@ -21,3 +21,6 @@ Commit staged changes with a descriptive message.
 
 - git commit -am "<message>"
 Stage and commit all modified tracked files in one step (skip git add).
+
+- git status
+Displays the status of your working directory and staging area, showing changes that are staged, unstaged, or untracked.
