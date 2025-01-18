@@ -24,3 +24,6 @@ Stage and commit all modified tracked files in one step (skip git add).
 
 - git status
 Displays the status of your working directory and staging area, showing changes that are staged, unstaged, or untracked.
+
+- git log
+Shows a history of commits made to the repository, including commit hashes, authors, and messages.
