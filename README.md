@@ -36,3 +36,8 @@ Lists all branches in your repository and highlights the current branch.
 
 - git pull
 Fetches changes from a remote repository and merges them into your local branch.
+
+- git push origin <branch>
+Pushes commits from your local branch to the corresponding branch on the remote repository.
+
+
