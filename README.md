@@ -49,3 +49,6 @@ Temporarily saves your uncommitted changes to a stack, allowing you to work on s
 - git fetch
 Fetches updates from a remote repository without merging them into your local branch. This is useful to check for changes before deciding to integrate them.
 
+- git revert <commit_hash>
+Reverts a specific commit by creating a new commit that undoes the changes from the specified commit.
+
