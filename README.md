@@ -58,5 +58,8 @@ Moves the current branch pointer to a specified commit. Use --soft to keep chang
 - git diff
 Displays the changes between your working directory and the last commit, or between specific commits or branches.
 
+- git tag <tag_name>
+Creates a tag for marking specific commits as releases or important points in the project's history. Use -a to create annotated tags with messages.
+
 
 
