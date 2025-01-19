@@ -52,3 +52,9 @@ Fetches updates from a remote repository without merging them into your local br
 - git revert <commit_hash>
 Reverts a specific commit by creating a new commit that undoes the changes from the specified commit.
 
+- git reset <commit_hash>
+Moves the current branch pointer to a specified commit. Use --soft to keep changes staged or --hard to discard them.
+
+
+
+
