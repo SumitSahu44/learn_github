@@ -46,3 +46,6 @@ Merges changes from a specified branch into the current branch.
 - git stash
 Temporarily saves your uncommitted changes to a stack, allowing you to work on something else and restore them later with git stash apply.
 
+- git fetch
+Fetches updates from a remote repository without merging them into your local branch. This is useful to check for changes before deciding to integrate them.
+
