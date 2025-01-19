@@ -61,5 +61,8 @@ Displays the changes between your working directory and the last commit, or betw
 - git tag <tag_name>
 Creates a tag for marking specific commits as releases or important points in the project's history. Use -a to create annotated tags with messages.
 
+- git remote -v
+Shows the list of remote repositories and their URLs.
+
 
 
