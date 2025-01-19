@@ -64,5 +64,5 @@ Creates a tag for marking specific commits as releases or important points in th
 - git remote -v
 Shows the list of remote repositories and their URLs.
 
-
-
+- git rm --cached <file>
+Removes a file from the staging area without deleting it from the working directory.
