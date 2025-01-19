@@ -55,6 +55,8 @@ Reverts a specific commit by creating a new commit that undoes the changes from 
 - git reset <commit_hash>
 Moves the current branch pointer to a specified commit. Use --soft to keep changes staged or --hard to discard them.
 
+- git diff
+Displays the changes between your working directory and the last commit, or between specific commits or branches.
 
 
 
