@@ -2,7 +2,7 @@
 
 This is my first GitHub repository.
 
-**Author** - Sumit Sahu 444
+**Author** - SumitSahu444
 
 ---
 
